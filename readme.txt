@@ -4,4 +4,5 @@ Git has a mutable index called staged.
 Git tracks change of file. 
 Creating a new branch is quickly AND simple. 
 dev
+changedev
 
