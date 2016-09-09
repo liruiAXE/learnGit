@@ -5,4 +5,5 @@ Git tracks change of file.
 Creating a new branch is quickly AND simple. 
 dev
 changedev
+new dev
 
