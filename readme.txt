@@ -7,3 +7,4 @@ dev
 changedev
 new dev
 stash
+diff
