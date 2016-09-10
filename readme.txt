@@ -6,4 +6,4 @@ Creating a new branch is quickly AND simple.
 dev
 changedev
 new dev
-
+stash
